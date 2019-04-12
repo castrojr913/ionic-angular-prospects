@@ -1,5 +1,7 @@
 {
   "name": "ionic-angular-prospects",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
