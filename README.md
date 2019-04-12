@@ -1,2 +1,3 @@
 # ionic-angular-prospects
-App to get prospects information
+
+Ionic V4 with Angular.
